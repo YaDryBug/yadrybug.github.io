@@ -1,4 +1,4 @@
-title: Peas Brie Rice
+title: LeGuMe
 email: 
 description: >-
   Collection of recipes to keep expanding my cooking skills and my coding skills!
@@ -12,7 +12,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-name:               "RE:cipes"
+name:               "LeGuMe"
 
 # Navigation
 nav:
