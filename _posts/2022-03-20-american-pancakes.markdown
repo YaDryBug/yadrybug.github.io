@@ -17,8 +17,6 @@ categories: breakfast
 - 1/4 tsp (1g) baking soda 
 - 1 Tbsp (12g) baking powder 
 - 2 (21g) Tbsp melted butter
-{% highlight ruby %}
-{% endhighlight %}
 
 #### Method:
 
