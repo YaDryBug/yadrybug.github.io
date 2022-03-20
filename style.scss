@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 h2 {
@@ -275,13 +275,14 @@ tbody tr:nth-child(odd) th {
 
   &-title {
     font-weight: 300;
-    
+    font-family: 'Damion', cursive;
     a {
       color: #9efeff;
       
       &:hover,
       &:focus {
         text-decoration: none;
+        color:#a5ff90;
       }
     }
     
@@ -293,9 +294,10 @@ tbody tr:nth-child(odd) th {
   
   &-title--small {
     margin-bottom: .75rem;
-    font-size: .75rem;
+    font-size: 1rem;
+    font-family: 'Damion', cursive;
     font-weight: 600;
-    text-transform: uppercase;
+    // text-transform: uppercase;
     
     a {
       color: #9efeff;
@@ -303,6 +305,7 @@ tbody tr:nth-child(odd) th {
       &:hover,
       &:focus {
         text-decoration: none;
+        color: #a5ff90;
       }
     }
   }

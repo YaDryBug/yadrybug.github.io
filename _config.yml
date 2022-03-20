@@ -1,4 +1,4 @@
-title: LeGuMe
+title: Milliway's Menu
 email: 
 description: >-
   Collection of recipes to keep expanding my cooking skills and my coding skills!
@@ -12,7 +12,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-name:               "LeGuMe"
+name:               "Milliway's Menu"
 
 # Navigation
 nav:
