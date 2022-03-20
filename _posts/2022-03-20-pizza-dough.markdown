@@ -8,10 +8,10 @@ categories: pizza
 >
 > - 290g Bread Flour 
 > - 175g Water (room temp) 
-> - 1.5g IDY (.5%):
-> - 5g Salt (1.75%):
-> - 9g Soybean Oil (3%):
-> - 3g Sugar (1%):
+> - 1.5g Instant Dry Yeast
+> - 5g Salt 
+> - 9g Soybean Oil 
+> - 3g Sugar
 
 
 #### Method:
