@@ -12,18 +12,26 @@ layout: default
   </nav>
 </header>
 <div class="content list">
+  <div class="list-item">
+    {% for category in site.categories %}
+      {{ category | first }}
+        {% for post in category.last %}
+        <h2 class="list-post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        {% endfor %}
+    {% endfor %}
+  </div>
 {% if site.posts.size == 0 %}
   <h2>No post found</h2>
 {% else %}
 {% for post in site.posts %}
-  <div class="list-item">
+  <!-- <div class="list-item">
     <h2 class="list-post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </h2>
     <div class="list-post-date">
       <time>{{ post.date | date_to_string }}</time>
     </div>
-  </div>
+  </div> -->
 {% endfor %}
 {% endif %}
 </div>
