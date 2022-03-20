@@ -32,6 +32,39 @@ theme: minima
 plugins:
   - jekyll-feed
 
+name:               "RE:cipes"
+
+# Navigation
+nav:
+  - name:           "About"
+    remote:         false
+    localpath:      "about"
+  - name:           "Download"
+    remote:         true
+    href:           ""
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gems:
+  - jekyll-seo-tag
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
