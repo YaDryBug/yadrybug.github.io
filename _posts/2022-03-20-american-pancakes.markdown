@@ -4,19 +4,16 @@ title:  "American Pancakes"
 date:   2022-03-20 12:56:49 +0000
 categories: breakfast
 ---
-[Original Recipe][original-recipe].
-
-
-#### Ingredients:
-
-- 1.5 (386g) cups milk 
-- 1 egg 
-- 2 cups (300g) plain flour 
-- 1/4 cup (62g) granulated sugar 
-- 1 tsp (4g) salt 
-- 1/4 tsp (1g) baking soda 
-- 1 Tbsp (12g) baking powder 
-- 2 (21g) Tbsp melted butter
+> #### Ingredients:
+> 
+> - 1.5 (386g) cups milk 
+> - 1 egg 
+> - 2 cups (300g) plain flour 
+> - 1/4 cup (62g) granulated sugar 
+> - 1 tsp (4g) salt 
+> - 1/4 tsp (1g) baking soda 
+> - 1 Tbsp (12g) baking powder 
+> - 2 (21g) Tbsp melted butter
 
 #### Method:
 
@@ -28,5 +25,7 @@ categories: breakfast
 6. Once hot spoon ¼” dollops of the pancake batter. Cook for 2-3 minutes or until golden brown on the bottom. 
 7. Flip and cook for an additional 2-3 minutes. Repeat with the rest of the batter. 
 8. Top with butter and drizzle with maple syrup to serve. 
+
+[Original Recipe][original-recipe].
 
 [original-recipe]: https://www.joshuaweissman.com/post/pancakes
