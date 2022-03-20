@@ -9,19 +9,19 @@ categories: dinner
 > **For the Marinade:**
 >
 > - 1 large egg white
-> - 2 tablespoons (30ml) Chinese dark soy sauce
-> - 2 tablespoons (30ml) Shaoxing wine (see note)
-> - 2 tablespoons (30ml) 80-proof vodka
-> - 3 tablespoons (24g) cornstarch
-> - 1/4 teaspoon (1g) baking soda
+> - 2 tbsp (30ml) Chinese dark soy sauce
+> - 2 tbsp (30ml) Shaoxing wine (see note)
+> - 2 tbsp (30ml) 80-proof vodka
+> - 3 tbsp (24g) cornstarch
+> - 1/4 tsp (1g) baking soda
 > - 1 pound (455g) boneless, skinless chicken thighs, cut into 1/2- to 3/4-inch chunks
 >
 >**For the Dry Coating:**
 >
 > - 1/2 cup (64g) all-purpose flour
 > - 1/2 cup (64g) cornstarch
-> - 1/2 teaspoon (2g) baking powder
-> - 1/2 teaspoon (1.5g) kosher salt
+> - 1/2 tsp (2g) baking powder
+> - 1/2 tsp (1.5g) kosher salt
 > 
 > **To Fry Chicken:**
 > 
@@ -29,17 +29,17 @@ categories: dinner
 > 
 > **For the Sauce and to Finish (see note):**
 > 
-> - 4 tablespoons (50g) granulated sugar
-> - 3 tablespoons (45ml) homemade or store-bought low-sodium chicken stock
-> - 3 tablespoons (45ml) dark soy sauce
-> - 2 tablespoons (30ml) Shaoxing wine (see note)
-> - 2 tablespoons (30ml) Chinese rice vinegar or distilled white vinegar
-> - 1 tablespoon (8g) cornstarch
-> - 2 teaspoons (10ml) peanut, vegetable, or canola oil
-> - 2 teaspoons (6g) minced garlic (about 2 medium cloves)
-> - 2 teaspoons (4g) minced fresh ginger (about one 1-inch piece)
-> - 2 teaspoons (4g) minced scallion bottoms (about 1 scallion), plus 6 to 8 scallions, white parts only, cut into 1-inch lengths
-> - 1 teaspoon (5ml) toasted sesame oil
+> - 4 tbsp (50g) granulated sugar
+> - 3 tbsp (45ml) homemade or store-bought low-sodium chicken stock
+> - 3 tbsp (45ml) dark soy sauce
+> - 2 tbsp (30ml) Shaoxing wine (see note)
+> - 2 tbsp (30ml) Chinese rice vinegar or distilled white vinegar
+> - 1 tbsp (8g) cornstarch
+> - 2 tsp (10ml) peanut, vegetable, or canola oil
+> - 2 tsp (6g) minced garlic (about 2 medium cloves)
+> - 2 tsp (4g) minced fresh ginger (about one 1-inch piece)
+> - 2 tsp (4g) minced scallion bottoms (about 1 scallion), plus 6 to 8 scallions, white parts only, cut into 1-inch lengths
+> - 1 tsp (5ml) toasted sesame oil
 > - 8 small dried red Chinese or Arbol chiles (see note)
 > - 1 cup, loosely packed steamed white rice
 
