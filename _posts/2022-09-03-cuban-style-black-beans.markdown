@@ -6,6 +6,8 @@ categories: dinner
 ---
 > #### Ingredients:
 >
+> Makes about 2 quarts
+>
 > - 1 pound dried black beans, picked through, rinsed
 > - 1 bay leaf
 > - 1 medium onion, finely chopped, divided
