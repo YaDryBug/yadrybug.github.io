@@ -4,7 +4,7 @@ title:  "Apple & Sultana Muffins"
 date:   2023-02-08 13:28:29 +0000
 categories: snack
 ---
-> #### Ingredients (Makes 18 Buns):
+> #### Ingredients (Makes 12 Muffins):
 >
 > - 200g self-raising flour
 > - 1 tsp baking powder
