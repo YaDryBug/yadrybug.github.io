@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Honey and yoghurt set cheesecake"
+title:  "Honey and Yoghurt Set Cheesecake"
 date:   2023-02-10 01:01:59 +0000
 categories: desert
 ---
