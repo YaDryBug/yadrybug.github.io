@@ -29,3 +29,6 @@ categories: experimental
 6. Flour the top of the dough and cut a deep slash down the length of the loaf.
 
 7. Place loaf tin inside clay chicken pot and bake for 35-40 minutes, remove top off clay chicken pot after 20 minutes. 
+
+[Reference][reference-link].
+[reference-link]:https://www.reddit.com/r/Cooking/comments/sw5o6y/a_beginner_bakers_guide_to_every_bread_recipe_and/
