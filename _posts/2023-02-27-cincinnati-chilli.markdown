@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Honey and Yoghurt Set Cheesecake"
+title:  "Cincinnati Chilli"
 date:   2023-02-10 01:01:59 +0000
-categories: desert
+categories: dinner
 ---
 > #### Ingredients:
 >
