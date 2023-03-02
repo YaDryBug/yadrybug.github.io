@@ -6,36 +6,42 @@ categories: dinner
 ---
 > #### Ingredients:
 >
-> - 500g Greek-style yoghurt
-> - 200g Hobnobs
-> - 60g unsalted butter, melted
-> - 1½ tbsp thyme leaves
-> - 400g full-fat cream cheese
-> - 40g icing sugar, sieved
-> - Finely grated zest of 1 lemon (1 tsp)
-> - 150g white chocolate, broken into 1-2cm pieces
-> - 60g honey
+> - 900g ground beef (80:20 is good)
+> - 1 (170g) can tomato puree
+> - 1 litre of water
+> - 1 (226g) can passata
+> - 1 large onion, minced (about 3 cups)
+> - 6 cloves garlic, minced
+> - 3 tablespoons chili powder
+> - 1 teaspoon ground cumin
+> - 1 teaspoon cinnamon
+> - 3/4 teaspoon ground allspice
+> - 1/4 teaspoon ground cloves
+> - 1/2 teaspoon cayenne pepper
+> - 2 teaspoons kosher salt
+> - 2 tablespoons Worcestershire sauce
+> - 1 tablespoon apple cider vinegar
+> - 1/2 ounce unsweetened chocolate, optional
+
 
 
 
 #### Method:
 
 
-1. Line a 23cm springform cake tin with greaseproof paper.
+1. Heat a large, heavy-bottomed pot or Dutch oven over medium-high heat. Add the tomato paste to the dry pot and cook, constantly scraping the bottom with a wooden spoon or silicone spatula, until the tomato smells rich and toasty and you start to see browned (not burned) patches in the bottom of the pot. This should take 1 to 3 minutes. 
 
-2. Line a sieve with a clean tea towel and set it above a bowl. Spoon in the yoghurt, then draw up the sides of the towel and squeeze the yoghurt into a ball, pressing out as much liquid as you can: you should end up with about 350g thickened yoghurt.
+2. Remove the pot from heat and add the ground beef and water. Mix them together into a sludge. It will not look pretty, but press on. There's a method to this madness.
 
-3. Put the Hobnobs in a clean plastic bag and bash with a rolling pin until finely crushed. Mix with the butter and a tablespoon of thyme, then spoon into the base of the cake tin, pressing it down to form an even layer. Refrigerate while you make the cheesecake mixture.
+3. Return to medium-high heat and bring to a simmer, stirring all the while, so the sludge breaks up into a mealy paste. Add all the remaining ingredients except the vinegar and chocolate. 
 
-4. Whisk the cream cheese, strained yoghurt, icing sugar and lemon zest until smooth (use a free-standing or handheld mixer).
+4. Stir the chili often. You want the volume to reduce a bit. (To be honest, just one hour of cook time is okay, but for optimal chili-ness, go long.) 
 
-5. Melt the chocolate in a heatproof bowl over a pan of barely simmering water, making sure the base of the bowl is well clear of the hot water. Stir for two to three minutes, until the chocolate melts; take care not to get any moisture into the chocolate or it will seize up (white chocolate is much more temperamental than milk or dark). Scrape the chocolate into the cream mix and whisk together.
+5. Right at the end of your cooking time, add the vinegar and optional chocolate. 
 
-6. Spread the cheesecake mix evenly on top of the biscuit base, then refrigerate for two hours, until set.
-
-7. To serve, warm the honey in a small saucepan with the remaining half-tablespoon of thyme leaves, until runny, then drizzle over the top of the cheesecake. Release the cheesecake from its tin, cut into eight slices and serve.
+6. Server over spaghetti with raw diced onions and finely shredded cheddar cheese.
 
 
 [Original Recipe][original-recipe].
 
-[original-recipe]: https://www.theguardian.com/lifeandstyle/2018/mar/03/yotam-ottolenghi-recipes-mothers-day-lamb-koftas-honey-yoghurt-cheescake
+[original-recipe]: https://www.simplyrecipes.com/recipes/cincinnati_chili/
