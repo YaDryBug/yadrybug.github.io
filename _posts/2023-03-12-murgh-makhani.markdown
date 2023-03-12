@@ -5,7 +5,7 @@ date:   2023-03-12 16:41:59 +0000
 categories: dinner
 ---
 > #### Ingredients:
-
+>
 > **Butter chicken**
 > - 8 boneless chicken thighs
 > - 1 tbsp of ginger and garlic paste
@@ -14,7 +14,7 @@ categories: dinner
 > - 2 tsp Kashmiri chilli powder
 > - 1/2 tsp garam masala
 > - 1 tbsp of vegetable oil
-
+>
 > **Makhani sauce**
 > - 2 tbsp of vegetable oil
 > - 3 green chillies
