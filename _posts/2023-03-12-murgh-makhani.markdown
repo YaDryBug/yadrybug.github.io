@@ -6,6 +6,7 @@ categories: dinner
 ---
 > #### Ingredients:
 >
+>
 > **Butter chicken**
 > - 8 boneless chicken thighs
 > - 1 tbsp of ginger and garlic paste
