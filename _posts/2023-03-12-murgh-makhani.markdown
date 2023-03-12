@@ -7,7 +7,7 @@ categories: dinner
 > #### Ingredients:
 
 > - Butter chicken
-
+>
 > - 8 boneless chicken thighs
 > - 1 tbsp of ginger and garlic paste
 > - 1 pinch of salt
@@ -17,7 +17,7 @@ categories: dinner
 > - 1 tbsp of vegetable oil
 
 > - Makhani sauce
-
+>
 > - 2 tbsp of vegetable oil
 > - 3 green chillies
 > - 4 cardamom pods
