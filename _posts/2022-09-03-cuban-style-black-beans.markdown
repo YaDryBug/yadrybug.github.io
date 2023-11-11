@@ -2,7 +2,7 @@
 layout: post
 title:  "Cuban Style Black Beans"
 date:   2022-09-03 16:28:59 +0000
-categories: dinner
+categories: sides
 ---
 > #### Ingredients:
 >
