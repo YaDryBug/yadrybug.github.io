@@ -6,7 +6,7 @@ categories: pizza
 ---
 > #### Ingredients:
 >
-> ##### Dough:
+> ###### Dough:
 >
 > - 3 3/4 cups (570g) Tipo “OO” flour 
 > - 1/4 teaspoon (1g) diastatic malt powder, (optional)
@@ -18,7 +18,7 @@ categories: pizza
 > - Bench flour 
 > - 1/4 cup (44g) fine semolina for dusting 
 >
-> ##### Sauce:
+> ###### Sauce:
 >
 > - 2 tablespoons (22g) extra virgin olive oil 
 > - 2 cloves garlic, thinly sliced
@@ -31,7 +31,7 @@ categories: pizza
 > - 2-3 ounces pepperoni, (optional)
 > - 2 tablespoons (28g) unsalted butter 
 >
-> ##### Cheese:
+> ###### Cheese:
 >
 > - 2 cups (240g) low-moisture mozzarella, freshly grated on coarse side
 > - 2 cups (210g) Monterey jack cheese, freshly grated on coarse side
@@ -39,7 +39,7 @@ categories: pizza
 
 #### Method:
 
-##### For The Dough 
+###### For The Dough 
 
 1. In a large bowl mix together the flour, malt powder, sugar, and salt. 
 
@@ -51,7 +51,7 @@ categories: pizza
 
 5. Grease a sheet pan with cooking spray, lightly dust with flour and then lightly dust with the semolina. Place the dough on the prepared sheet pan, cover with plastic wrap and proof at room temperature for 2-3 hours.
 
-##### For The Pizza Sauce 
+###### For The Pizza Sauce 
 
 1. In a medium saucepan over medium heat, add the olive oil. Once the oil is hot add the garlic and cook for 1 minute or until lightly toasted. Stir in the red pepper flakes, and toast for 30 seconds or until fragrant. 
 
@@ -59,7 +59,7 @@ categories: pizza
 
 3. Pour the sauce into a bowl and season with salt to taste. Stir in the butter until melted and emulsified. Set aside. 
 
-##### Cooking Method
+###### Cooking Method
 
 1. Add the olive oil to a 10-inch cast iron skillet, making sure to coat the sides and bottom with the oil. 
 
