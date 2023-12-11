@@ -4,7 +4,7 @@ title:  "Murgh Makhani"
 date:   2023-03-12 16:41:59 +0000
 categories: dinner
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 >
 > **Butter chicken**
@@ -36,7 +36,7 @@ categories: dinner
 
 
 
-#### Method:
+## Method
 
 
 1. To begin, mix the chicken with the ginger and garlic paste and salt and set aside. Whisk together the yoghurt, chilli powder, garam masala and oil, massage into the chicken and marinate for a minimum of 4 hours in the fridge.

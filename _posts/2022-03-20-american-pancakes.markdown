@@ -4,7 +4,7 @@ title:  "American Pancakes"
 date:   2022-03-20 12:56:49 +0000
 categories: breakfast
 ---
-> #### Ingredients:
+> ## Ingredients
 > 
 > - 1.5 (386g) cups milk 
 > - 1 egg 
@@ -15,7 +15,7 @@ categories: breakfast
 > - 1 Tbsp (12g) baking powder 
 > - 2 (21g) Tbsp melted butter
 
-#### Method:
+## Method
 
 1. In a small bowl, whisk together egg and milk.
 

@@ -4,7 +4,7 @@ title:  "Sauce (Top Quality Tomatoes)"
 date:   2022-03-20 16:42:59 +0000
 categories: pizza
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 > - 1 tin whole peeled tomatoes (the best money can buy)
 > - 3 thin slices of garlic (not 3 garlic cloves, thinly sliced!)
@@ -12,7 +12,7 @@ categories: pizza
 > - ¼ tsp kosher salt
 
 
-#### Method:
+## Method
 
 
 1. Place tomatoes (without juice from can) in a colander to drain. 

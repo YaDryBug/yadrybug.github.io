@@ -4,7 +4,7 @@ title:  "Cincinnati Chilli"
 date:   2023-02-10 01:01:59 +0000
 categories: dinner
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 > - 900g ground beef (80:20 is good)
 > - 1 (170g) can tomato puree
@@ -26,7 +26,7 @@ categories: dinner
 
 
 
-#### Method:
+## Method
 
 
 1. Heat a large, heavy-bottomed pot or Dutch oven over medium-high heat. Add the tomato paste to the dry pot and cook, constantly scraping the bottom with a wooden spoon or silicone spatula, until the tomato smells rich and toasty and you start to see browned (not burned) patches in the bottom of the pot. This should take 1 to 3 minutes. 

@@ -21,7 +21,7 @@ categories: snack
 
 
 
-#### Method:
+## Method
 
 
 1. Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with a silicone baking mat (such as Silpat™) or parchment paper.

@@ -4,7 +4,7 @@ title:  "Cuban Style Black Beans"
 date:   2022-09-03 16:28:59 +0000
 categories: sides
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 > Makes about 2 quarts
 >
@@ -19,7 +19,7 @@ categories: sides
 
 
 
-#### Method:
+## Method
 
 
 1. Bring beans, bay leaf, ¼ cup chopped onion, ¼ cup chopped bell pepper, 1 Tbsp. grated garlic, 5 tsp. Diamond Crystal or 1 Tbsp. Morton salt, ½ tsp. oregano, and 5 quarts water to a boil in a large pot. Reduce heat to medium and cook, stirring occasionally and adding more hot water if needed to cover, until beans are tender and covered by about ¼" liquid, 2½–3 hours. Discard bay leaf.

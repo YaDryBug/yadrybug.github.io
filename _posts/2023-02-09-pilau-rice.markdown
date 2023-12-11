@@ -4,7 +4,7 @@ title:  "Pilau Rice"
 date:   2023-02-09 16:28:59 +0000
 categories: dinner
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 > - ½ tsp coriander seeds
 > - 6 cardamom pods
@@ -23,7 +23,7 @@ categories: dinner
 
 
 
-#### Method:
+## Method
 
 
 1. Using a pestle and mortar, pound the coriander seeds into a coarse powder. Add the cardamom pods and grind until the husks split and the seeds are lightly crushed. Add the cumin, cloves, cinnamon and bay and pound very lightly for a few seconds, to mix.

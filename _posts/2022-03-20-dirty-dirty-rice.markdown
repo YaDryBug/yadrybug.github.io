@@ -4,7 +4,7 @@ title:  "Dirty, Dirty Rice"
 date:   2022-03-20 17:46:49 +0000
 categories: dinner
 ---
-> #### Ingredients:
+> ## Ingredients
 >  
 > - 1 tbsp vegetable oil
 > - 6 ounces boneless pork shoulder, diced
@@ -28,7 +28,7 @@ categories: dinner
 > - ¼ cup sliced green onions
 > - ¼ cup chopped Italian parsley
 
-#### Method:
+## Method
 
 1. Heat oil in a high-sided pan over medium-high heat. Cook and stir pork until well browned and fat is rendered, 5 to 7 minutes. Add onion, celery, and bell pepper; saute until translucent, about 5 minutes. Stir in paprika, cumin, black pepper, cayenne, garlic powder, oregano, and thyme. Cook, stirring occasionally, until vegetables continue to soften, about 5 minutes.
 

@@ -14,7 +14,7 @@ categories: pizza
 > - 3g Sugar
 
 
-#### Method:
+## Method
 
 
 1. Measure dry (no yeast). Measure wet (+ yeast). Mix to dissolve yeast. 

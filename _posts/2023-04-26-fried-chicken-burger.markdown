@@ -4,7 +4,7 @@ title:  "Fried Chicken Burger"
 date:   2023-04-26 16:41:59 +0000
 categories: dinner
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 > - 2 Chicken breasts
 > - 1.5 teaspoons (4.5g) kosher salt
@@ -20,7 +20,7 @@ categories: dinner
 
 
 
-#### Method:
+## Method
 
 1. Slice each chicken breast in half, in a medium sized bowl mix with the salt, yeast, pepper, garlic power and onion powder.
 

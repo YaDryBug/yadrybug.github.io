@@ -4,7 +4,7 @@ title:  "Miso, tomato and oregano pasta"
 date:   2022-03-20 12:56:49 +0000
 categories: lunch
 ---
-> #### Ingredients:
+> ## Ingredients
 > 
 > - Salt
 > - 110g spaghettini (or spaghetti) 
@@ -17,7 +17,7 @@ categories: lunch
 > - 400g cherry tomatoes
 > - 160g nocellara olives (or other green olives), pitted and thinly sliced lengthways
 
-#### Method:
+## Method
 
 1. Put two litres of water in a medium saucepan and salt well – ie, with about three tablespoons. Bring to a boil, add the spaghettini, cook for six minutes (or according to the instructions on the packet), then drain.
 

@@ -4,7 +4,7 @@ title:  "Pan Pizza"
 date:   2023-08-12 16:41:59 +0000
 categories: pizza
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 > - 400g bread flour, plus more for dusting
 > - 10g kosher salt, plus more for sprinkling
@@ -16,7 +16,7 @@ categories: pizza
 
 
 
-#### Method:
+## Method
 
 1. Combine flour, salt, yeast, water, and oil in a large bowl. Mix with hands or a wooden spoon until no dry flour remains. (The bowl should be at least 4 to 6 times the volume of the dough to account for rising.) 
 

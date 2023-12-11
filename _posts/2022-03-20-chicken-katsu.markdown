@@ -4,7 +4,7 @@ title:  "Chicken Katsu"
 date:   2022-03-20 14:51:39 +0000
 categories: dinner
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 > - 1 shallot
 > - 1 Egg
@@ -21,7 +21,7 @@ categories: dinner
 
 
 
-#### Method:
+## Method
 
 
 1. Add the basmati rice and 300ml cold water to a pot with a lid and bring to the boil over a high heat

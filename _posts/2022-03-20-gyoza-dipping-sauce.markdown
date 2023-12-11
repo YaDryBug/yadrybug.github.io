@@ -4,7 +4,7 @@ title:  "Gyoza Dipping Sauce"
 date:   2022-03-20 16:41:59 +0000
 categories: sauce
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 > - 2 tablespoons rice vinegar
 > - 2 tablespoons low-sodium soy sauce
@@ -16,7 +16,7 @@ categories: sauce
 
 
 
-#### Method:
+## Method
 
 
 1. Whisk together the rice vinegar, soy sauce, red pepper flakes, garlic, ginger, green onions, and sesame oil in a bowl; allow to sit 15 minutes before serving. Store in refrigerator up to 1 week.

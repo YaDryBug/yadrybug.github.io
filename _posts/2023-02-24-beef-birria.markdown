@@ -4,7 +4,7 @@ title:  "Beef Birria"
 date:   2023-02-24 21:03:59 +0000
 categories: dinner
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 > - 1kg beef mince
 > - 1 onion, finely chopped
@@ -24,7 +24,7 @@ categories: dinner
 
 
 
-#### Method:
+## Method
 
 
 1. Heat 1 tablespoon of oil or lard in a frying pan over a medium heat and when hot, add the beef mince and brown.

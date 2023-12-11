@@ -4,7 +4,7 @@ title:  "Bread"
 date:   2023-02-27 21:30:59 +0000
 categories: experimental
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 > - 200g Country Grain Bread Flour
 > - 200g Strong White Bread Flour
@@ -14,7 +14,7 @@ categories: experimental
 
 
 
-#### Method:
+## Method
 
 
 1. Add the water, yeast, flour, salt and bring to a shaggy dough. Leave with a towel covering for 10 minutes.

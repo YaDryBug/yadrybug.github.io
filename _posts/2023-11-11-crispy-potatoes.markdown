@@ -4,7 +4,7 @@ title:  "Crispy Potatoes"
 date:   2023-11-11 16:41:59 +0000
 categories: sides
 ---
-> #### Ingredients:
+> ## Ingredients
 > 
 > - 3 pounds yukon gold potatoes (small)
 > - 1 whole head of garlic 
@@ -16,7 +16,7 @@ categories: sides
 
 
 
-#### Method:
+## Method
 
 1. Wash potatoes and place in a cold pot of water. Generously salt with water and bring to a boil over high heat.
 

@@ -4,7 +4,7 @@ title:  "Chicken Chow mein"
 date:   2023-04-25 16:41:59 +0000
 categories: dinner
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 > - 225g dried or fresh egg noodles
 > - 1 tbsp sesame oil, plus 1 tsp
@@ -28,7 +28,7 @@ categories: dinner
 
 
 
-#### Method:
+## Method
 
 
 1. Cook 225g egg noodles in a large pan of boiling water for 3-5 mins, then drain and put them in cold water. Drain thoroughly, toss them with 1 tbsp sesame oil and set aside.

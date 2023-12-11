@@ -4,7 +4,7 @@ title:  "Meaty Beafy Chilli"
 date:   2022-03-20 16:28:59 +0000
 categories: dinner
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 > - 1 Medium chili
 > - 1 Tablespoon of extra virigin oil
@@ -20,7 +20,7 @@ categories: dinner
 
 
 
-#### Method:
+## Method
 
 
 1. Heat oil in dutch oven, medium/high

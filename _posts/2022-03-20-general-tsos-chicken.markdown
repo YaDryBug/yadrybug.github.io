@@ -4,7 +4,7 @@ title:  "General Tso's Chicken"
 date:   2022-03-20 14:33:19 +0000
 categories: dinner
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 > **For the Marinade:**
 >
@@ -45,7 +45,7 @@ categories: dinner
 
 
 
-#### Method:
+## Method
 
 1. For the Marinade: Beat egg whites in a large bowl until broken down and lightly foamy. Add soy sauce, wine, and vodka and whisk to combine. Set aside half of marinade in a small bowl. Add cornstarch and baking soda to the large bowl and whisk to combine. Add chicken to large bowl and turn with fingers to coat thoroughly. Cover with plastic wrap and set aside.
 

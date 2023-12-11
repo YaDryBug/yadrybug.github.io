@@ -4,7 +4,7 @@ title:  "Honey and Yoghurt Set Cheesecake"
 date:   2023-02-27 21:03:59 +0000
 categories: desert
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 > - 500g Greek-style yoghurt
 > - 200g Hobnobs
@@ -18,7 +18,7 @@ categories: desert
 
 
 
-#### Method:
+## Method
 
 
 1. Line a 23cm springform cake tin with greaseproof paper.

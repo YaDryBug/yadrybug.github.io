@@ -4,7 +4,7 @@ title:  "Hollandaise"
 date:   2022-03-20 17:11:59 +0000
 categories: sauce
 ---
-> #### Ingredients:
+> ## Ingredients
 >
 > - 125g butter
 > - 2 egg yolks
@@ -14,7 +14,7 @@ categories: sauce
 
 
 
-#### Method:
+## Method
 
 
 1. Melt the butter in a saucepan and skim any white solids from the surface. Keep the butter warm.

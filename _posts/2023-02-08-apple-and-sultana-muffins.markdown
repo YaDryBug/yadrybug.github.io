@@ -19,7 +19,7 @@ categories: snack
 
 
 
-#### Method:
+## Method
 
 
 1. Heat oven to 180C/160C fan/gas 4. In a large bowl mix the self-raising flour, baking powder, cinnamon, wholemeal flour and golden caster sugar.
