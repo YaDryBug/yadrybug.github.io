@@ -277,24 +277,14 @@ tbody tr:nth-child(odd) th {
   padding: 2rem 1.5rem;
   margin-left: auto;
   margin-right: auto;
-  display: flex;
-  flex-wrap: wrap;
-  
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust the minimum and maximum column widths as needed */
+
   @media (min-width: 38rem){
     padding: 5rem 1rem;
   }
 }
 
-/* Apply a width for each column */
-.column {
-  flex: 0 0 calc(50% - 1rem); /* Adjust the width and margin as needed */
-  margin-right: 1rem;
-}
-
-/* Clear the margin on the last column in a row */
-.column:nth-child(even) {
-  margin-right: 0;
-}
 
 
 .masthead {
