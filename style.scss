@@ -261,16 +261,41 @@ tbody tr:nth-child(odd) th {
   font-size: 1.25rem;
 }
 
+// .container {
+//   max-width: 38rem;
+//   padding: 2rem 1.5rem;
+//   margin-left:  auto;
+//   margin-right: auto;
+  
+//   @media (min-width: 38rem){
+//     padding: 5rem 1rem;
+//   }
+// }
+
 .container {
   max-width: 38rem;
   padding: 2rem 1.5rem;
-  margin-left:  auto;
+  margin-left: auto;
   margin-right: auto;
+  display: flex;
+  flex-wrap: wrap;
   
   @media (min-width: 38rem){
     padding: 5rem 1rem;
   }
 }
+
+/* Apply a width for each column */
+.column {
+  flex: 0 0 calc(50% - 1rem); /* Adjust the width and margin as needed */
+  margin-right: 1rem;
+}
+
+/* Clear the margin on the last column in a row */
+.column:nth-child(even) {
+  margin-right: 0;
+}
+
 
 .masthead {
 
