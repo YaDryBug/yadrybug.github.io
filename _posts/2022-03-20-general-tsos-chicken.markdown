@@ -47,26 +47,21 @@ categories: dinner
 
 ## Method
 
-1. For the Marinade: Beat egg whites in a large bowl until broken down and lightly foamy. Add soy sauce, wine, and vodka and whisk to combine. Set aside half of marinade in a small bowl. Add cornstarch and baking soda to the large bowl and whisk to combine. Add chicken to large bowl and turn with fingers to coat thoroughly. Cover with plastic wrap and set aside.
+1. For the marinade, beat egg whites in a large bowl until broken down and lightly foamy. Add soy sauce, wine, and vodka and whisk to combine. Set aside half of marinade in a small bowl. Add cornstarch and baking soda to the large bowl and whisk to combine. Add chicken to large bowl and turn with fingers to coat thoroughly. Cover with plastic wrap and set aside.
 
-2. Metal bowl of chicken thigh pieces in General Tso's marinade, with additional marinade in background.
-For the Dry Coat: Combine flour, cornstarch, baking powder, and salt in a large bowl. Whisk until homogeneous. Add reserved marinade and whisk until mixture has coarse, mealy clumps. Set aside.
+2. For the dry coat, Combine flour, cornstarch, baking powder, and salt in a large bowl. Whisk until homogeneous. Add reserved marinade and whisk until mixture has coarse, mealy clumps. Set aside.
 
-3. Metal bowl of flour, cornstarch, baking powder, and salt with marinade whisked in for General Tso's chicken breading.
-To Fry Chicken: Heat 1 1/2 quarts peanut, vegetable, or canola oil in a large wok or Dutch oven to 350°F (177°C) and adjust flame to maintain temperature.
+3. To Fry Chicken: Heat 1 1/2 quarts peanut, vegetable, or canola oil in a large wok or Dutch oven to 350°F (177°C) and adjust flame to maintain temperature.
 
 4. Working one piece at a time, transfer chicken from marinade to dry coat mixture, tossing in between each addition to coat chicken. When all chicken is added to dry coat, toss with hands, pressing dry mixture onto chicken so it adheres, and making sure that every piece is coated thoroughly.
 
-5. Adding chicken thigh pieces to bowl of General Tso's chicken dry coating.
-Lift chicken one piece at a time, shake off excess coating, and carefully lower into hot oil (do not drop it). Once all chicken is added, cook, agitating with long chopsticks or a metal spider, and adjusting flame to maintain a temperature of 325 to 375°F (163 to 191°C), until chicken is cooked through and very crispy, about 4 minutes. Transfer chicken to a paper towel-lined bowl to drain. Pour frying oil through a fine-mesh strainer set over a large heatproof bowl; allow to cool, then reserve for future frying.
+5. Lift chicken one piece at a time, shake off excess coating, and carefully lower into hot oil (do not drop it). Once all chicken is added, cook, agitating with long chopsticks or a metal spider, and adjusting flame to maintain a temperature of 325 to 375°F (163 to 191°C), until chicken is cooked through and very crispy, about 4 minutes. Transfer chicken to a paper towel-lined bowl to drain. Pour frying oil through a fine-mesh strainer set over a large heatproof bowl; allow to cool, then reserve for future frying.
 
-6. Holding a piece of fried chicken with chopsticks above wok filled with hot oil and frying chicken.
-For the Sauce and to Finish: Combine sugar, chicken stock, soy sauce, wine, vinegar, cornstarch, and sesame oil in a small bowl and stir with a fork until cornstarch is dissolved and no lumps remain. Set aside.
+6. For the Sauce and to Finish: Combine sugar, chicken stock, soy sauce, wine, vinegar, cornstarch, and sesame oil in a small bowl and stir with a fork until cornstarch is dissolved and no lumps remain. Set aside.
 
 7. Combine oil, garlic, ginger, minced scallions, and red chiles in a wok or large skillet and place over medium heat. Cook, stirring, until vegetables are aromatic and soft, but not browned, about 3 minutes. Stir sauce mixture and add to wok, making sure to scrape out any sugar or starch that has sunk to the bottom of bowl. Cook, stirring, until sauce boils and thickens, about 1 minute. Add scallion segments.
 
-8. Simmering sauce for General Tso's chicken in a large skillet.
-Add chicken to sauce, then toss, folding it with a wok spatula or silicone spatula until all pieces are thoroughly coated. Serve immediately with white rice.
+8. Add chicken to sauce, then toss, folding it with a wok spatula or silicone spatula until all pieces are thoroughly coated. Serve immediately with white rice.
 
 [Original Recipe][original-recipe].
 
