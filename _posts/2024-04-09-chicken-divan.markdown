@@ -60,10 +60,10 @@ categories: dinner
 
 14. Remove from the oven, top with chopped parsley and serve.
 
-## Nutrition
-
-Serves 6
-Calories: 467kcal per serving
+> ## Nutrition
+>
+> Serves 6
+> Calories: 467kcal per serving
 
 [Original Recipe][original-recipe].
 
