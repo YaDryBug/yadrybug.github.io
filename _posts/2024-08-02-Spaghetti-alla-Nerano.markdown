@@ -6,6 +6,7 @@ categories: dinner
 ---
 > ## Ingredients
 >
+
 > - 400g spaghetti
 > - 6 medium courgettes (roughly 1kg), sliced into thin rounds
 > - Handful of fresh basil leaves, torn
