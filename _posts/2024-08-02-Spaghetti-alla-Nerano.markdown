@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spaghetti alla Nerano"
-date:   2024-08-08 09:41:59 +0000
+date:   2024-08-02 09:41:59 +0000
 categories: dinner
 ---
 > ## Ingredients
