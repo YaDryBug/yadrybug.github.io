@@ -276,7 +276,7 @@ tbody tr:nth-child(odd) th {
 
   &-title {
     font-weight: 300;
-    font-family: 'Damion', cursive;
+    font-family: "Sixtyfour Convergence", sans-serif;
     a {
       color: #9efeff;
       
@@ -296,7 +296,7 @@ tbody tr:nth-child(odd) th {
   &-title--small {
     margin-bottom: .75rem;
     font-size: 1rem;
-    font-family: 'Damion', cursive;
+    font-family: "Sixtyfour Convergence", sans-serif;
     font-weight: 600;
     // text-transform: uppercase;
     
@@ -377,25 +377,25 @@ tbody tr:nth-child(odd) th {
   }
 }
 
-/* Add to your stylesheet */
+// /* Add to your stylesheet */
 
-/* Two columns for desktop screens */
-.list-container {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr); /* Creates two equal-width columns */
-  gap: 20px; /* Space between the columns */
-}
+// /* Two columns for desktop screens */
+// .list-container {
+//   display: grid;
+//   grid-template-columns: repeat(2, 1fr); /* Creates two equal-width columns */
+//   gap: 20px; /* Space between the columns */
+// }
 
-.list-item {
-  margin-bottom: 20px; /* Add some space between items */
-}
+// .list-item {
+//   margin-bottom: 20px; /* Add some space between items */
+// }
 
-/* Media query for mobile devices: switches to one column */
-@media (max-width: 768px) {
-  .list-container {
-    grid-template-columns: 1fr; /* Single column for mobile */
-  }
-}
+// /* Media query for mobile devices: switches to one column */
+// @media (max-width: 768px) {
+//   .list-container {
+//     grid-template-columns: 1fr; /* Single column for mobile */
+//   }
+// }
 
 
 .projects-list {
