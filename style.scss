@@ -377,6 +377,27 @@ tbody tr:nth-child(odd) th {
   }
 }
 
+/* Add to your stylesheet */
+
+/* Two columns for desktop screens */
+.list-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Creates two equal-width columns */
+  gap: 20px; /* Space between the columns */
+}
+
+.list-item {
+  margin-bottom: 20px; /* Add some space between items */
+}
+
+/* Media query for mobile devices: switches to one column */
+@media (max-width: 768px) {
+  .list-container {
+    grid-template-columns: 1fr; /* Single column for mobile */
+  }
+}
+
+
 .projects-list {
   a {
     color: #333;
