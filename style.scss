@@ -292,7 +292,11 @@ tbody tr:nth-child(odd) th {
       &:hover,
       &:focus {
         text-decoration: none;
-        color:#a5ff90;
+        font-variation-settings:
+        "BLED" 0,
+        "SCAN" 0,
+        "XELA" 71,
+        "YELA" 27;
       }
     }
     
@@ -323,7 +327,11 @@ tbody tr:nth-child(odd) th {
       &:hover,
       &:focus {
         text-decoration: none;
-        color: #a5ff90;
+        font-variation-settings:
+        "BLED" 0,
+        "SCAN" 0,
+        "XELA" 71,
+        "YELA" 27;
       }
     }
   }
