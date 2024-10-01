@@ -6,7 +6,7 @@ categories: pizza
 ---
 > ## Ingredients
 >
-> ### Per Pizza
+> #### Per Pizza
 > - 100ml Water
 > - 165g 00 Flour
 > - 4.5g salt
@@ -23,8 +23,9 @@ categories: pizza
 
 4. Using finger tips stretch pizza out to roughly 6-8", then stretch from the size while holding the middle until it's roughly 10".
 
-5. Video guide for method https://www.youtube.com/watch?v=ckxfSacDbzg
+[Video guide for method][video-guide-for-method] 
 
 [Original Recipe][original-recipe].
 
 [original-recipe]: https://www.reddit.com/r/Pizza/comments/8rkpx3/comment/e0s9sqr/
+[video-guide-for-method]: https://www.youtube.com/watch?v=ckxfSacDbzg
