@@ -276,7 +276,7 @@ tbody tr:nth-child(odd) th {
 
   &-title {
     font-weight: 300;
-    font-family: "Sixtyfour Convergence", sans-serif;
+    // font-family: "Sixtyfour Convergence", sans-serif;
     a {
       color: #9efeff;
       
@@ -295,8 +295,8 @@ tbody tr:nth-child(odd) th {
   
   &-title--small {
     margin-bottom: .75rem;
-    font-size: 1rem;
-    font-family: "Sixtyfour Convergence", sans-serif;
+    // font-size: 1rem;
+    // font-family: "Sixtyfour Convergence", sans-serif;
     font-weight: 600;
     // text-transform: uppercase;
     
@@ -397,6 +397,19 @@ tbody tr:nth-child(odd) th {
 //   }
 // }
 
+// <uniquifier>: Use a unique and descriptive class name
+
+.header_font {
+  font-family: "Sixtyfour Convergence", sans-serif;
+  font-optical-sizing: auto;
+  // font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0,
+    "XELA" 0,
+    "YELA" 0;
+}
 
 .projects-list {
   a {
