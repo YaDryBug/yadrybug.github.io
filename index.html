@@ -7,15 +7,17 @@ layout: default
   </h1>
 </header>
 <div class="content list">
-  <div class="list-item">
+  <div class="list-container">
     {% for category in site.categories %}
       {{ category | first }}
-        {% for post in category.last %}
-        <h2 class="list-post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        {% endfor %}
+      {% for post in category.last %}
+        <div class="list-item">
+          <h2 class="list-post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        </div>
+      {% endfor %}
     {% endfor %}
   </div>
-{% if site.posts.size == 0 %}
-  <h2>No post found</h2>
-{% endif %}
+  {% if site.posts.size == 0 %}
+    <h2>No post found</h2>
+  {% endif %}
 </div>
