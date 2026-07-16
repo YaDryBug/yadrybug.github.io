@@ -1,0 +1,391 @@
+/* ============================================================
+   Recipe Box — a static site that reads its recipes straight
+   out of /_posts. Design language: kitchen index cards pinned
+   to a dark pantry-shelf background.
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@500;600&display=swap');
+
+:root {
+  --bg: #1e2a1f;
+  --bg-deep: #17201a;
+  --paper: #f3ecd7;
+  --paper-shadow: #d9d0b5;
+  --ink: #2b2118;
+  --ink-soft: #5a4d3d;
+  --ink-invert: #f3ecd7;
+  --paprika: #c1521b;
+  --paprika-dark: #8f3a12;
+  --mustard: #d9a441;
+  --sage: #7c9473;
+
+  --font-display: 'Space Grotesk', sans-serif;
+  --font-body: 'Source Serif 4', serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+
+  --radius: 3px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at 15% 0%, rgba(255,255,255,0.04), transparent 40%),
+    var(--bg);
+  color: var(--ink-invert);
+  font-family: var(--font-body);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; }
+
+:focus-visible {
+  outline: 2px solid var(--mustard);
+  outline-offset: 3px;
+}
+
+/* ---------- Header ---------- */
+
+.site-header {
+  padding: 3.5rem 1.5rem 2rem;
+  text-align: center;
+}
+
+.site-header .eyebrow {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--sage);
+  margin-bottom: 0.9rem;
+}
+
+.site-header h1 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(2.4rem, 6vw, 4rem);
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+
+.site-header p.tagline {
+  max-width: 34em;
+  margin: 0.9rem auto 0;
+  color: rgba(243,236,215,0.75);
+  font-size: 1.05rem;
+}
+
+/* ---------- Controls ---------- */
+
+.controls {
+  max-width: 900px;
+  margin: 0 auto 2.5rem;
+  padding: 0 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.controls input[type="search"] {
+  flex: 1 1 220px;
+  max-width: 320px;
+  background: rgba(243,236,215,0.08);
+  border: 1px solid rgba(243,236,215,0.25);
+  border-radius: 999px;
+  padding: 0.55rem 1rem;
+  color: var(--ink-invert);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+}
+
+.controls input[type="search"]::placeholder {
+  color: rgba(243,236,215,0.45);
+}
+
+.chip {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  background: transparent;
+  border: 1px solid rgba(243,236,215,0.3);
+  color: var(--ink-invert);
+  border-radius: 999px;
+  padding: 0.45rem 0.9rem;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+}
+
+.chip:hover { border-color: var(--mustard); transform: translateY(-1px); }
+
+.chip.active {
+  background: var(--mustard);
+  border-color: var(--mustard);
+  color: var(--bg-deep);
+}
+
+/* ---------- Recipe card grid ---------- */
+
+.card-grid {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0 1.5rem 5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 2.1rem 1.6rem;
+}
+
+.recipe-card {
+  --tab-color: var(--mustard);
+  position: relative;
+  display: block;
+  text-decoration: none;
+  background: var(--paper);
+  color: var(--ink);
+  border-radius: var(--radius);
+  padding: 2.1rem 1.3rem 1.4rem;
+  box-shadow: 0 10px 0 -4px var(--paper-shadow), 0 18px 24px -12px rgba(0,0,0,0.55);
+  transform: rotate(var(--tilt, -1deg));
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.recipe-card:nth-child(3n+1) { --tilt: -1.4deg; }
+.recipe-card:nth-child(3n+2) { --tilt: 0.9deg; }
+.recipe-card:nth-child(3n+3) { --tilt: -0.5deg; }
+
+.recipe-card:hover,
+.recipe-card:focus-visible {
+  transform: rotate(0deg) translateY(-4px);
+  box-shadow: 0 14px 0 -4px var(--paper-shadow), 0 26px 34px -14px rgba(0,0,0,0.6);
+}
+
+/* card "tab" cut into the top edge, like an index-card divider */
+.recipe-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 1.2rem;
+  width: 2.6rem;
+  height: 0.8rem;
+  background: var(--tab-color);
+  border-radius: 0 0 4px 4px;
+}
+
+.recipe-card .card-date {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.05em;
+  color: var(--ink-soft);
+  margin-bottom: 0.5rem;
+}
+
+.recipe-card h2 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.35rem;
+  margin: 0 0 0.6rem;
+  line-height: 1.15;
+}
+
+.recipe-card .card-excerpt {
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  margin: 0 0 1rem;
+}
+
+.recipe-card .card-cats {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+.recipe-card .cat-tag {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+  background: rgba(43,33,24,0.08);
+}
+
+.empty-state {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 3rem 1rem;
+  color: rgba(243,236,215,0.6);
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+}
+
+/* ---------- Recipe detail page ---------- */
+
+.recipe-page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 6rem;
+}
+
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--sage);
+  margin-bottom: 2rem;
+}
+
+.back-link:hover { color: var(--mustard); }
+
+.recipe-page .meta {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  color: rgba(243,236,215,0.6);
+  margin-bottom: 0.8rem;
+}
+
+.recipe-page h1 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(2.1rem, 5vw, 3.1rem);
+  margin: 0 0 1.8rem;
+  line-height: 1.05;
+}
+
+/* Ingredients blockquote rendered from the markdown, styled as a
+   punch-card checklist — the page's signature interactive element */
+.recipe-body blockquote {
+  background: var(--paper);
+  color: var(--ink);
+  margin: 0 0 2.4rem;
+  padding: 1.6rem 1.6rem 1.2rem;
+  border-radius: var(--radius);
+  box-shadow: 0 12px 30px -14px rgba(0,0,0,0.55);
+}
+
+.recipe-body blockquote h2 {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  margin: 0 0 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px dashed var(--ink-soft);
+}
+
+.recipe-body blockquote ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.recipe-body blockquote li {
+  display: flex;
+  align-items: baseline;
+  gap: 0.7rem;
+  padding: 0.4rem 0;
+  font-size: 1rem;
+  border-bottom: 1px solid rgba(43,33,24,0.08);
+  cursor: pointer;
+}
+
+.recipe-body blockquote li:last-child { border-bottom: none; }
+
+.recipe-body blockquote li::before {
+  content: '';
+  flex: 0 0 auto;
+  width: 0.85rem;
+  height: 0.85rem;
+  border: 1.5px solid var(--ink-soft);
+  border-radius: 2px;
+  transform: translateY(1px);
+}
+
+.recipe-body blockquote li.checked {
+  color: var(--ink-soft);
+  text-decoration: line-through;
+  text-decoration-color: var(--paprika);
+}
+
+.recipe-body blockquote li.checked::before {
+  background: var(--mustard);
+  border-color: var(--mustard);
+}
+
+/* Method */
+
+.recipe-body h2 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 2.4rem 0 1.2rem;
+}
+
+.recipe-body ol {
+  list-style: none;
+  counter-reset: step;
+  margin: 0;
+  padding: 0;
+}
+
+.recipe-body ol li {
+  counter-increment: step;
+  position: relative;
+  padding: 0 0 1.4rem 2.9rem;
+  font-size: 1.05rem;
+}
+
+.recipe-body ol li::before {
+  content: counter(step);
+  position: absolute;
+  left: 0;
+  top: -0.1rem;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: var(--paprika);
+  color: var(--paper);
+  font-family: var(--font-mono);
+  font-weight: 600;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.recipe-body p { font-size: 1.02rem; }
+
+.recipe-body a { color: var(--mustard); }
+
+.recipe-not-found {
+  text-align: center;
+  padding: 4rem 1rem;
+  font-family: var(--font-mono);
+  color: rgba(243,236,215,0.7);
+}
+
+footer.site-footer {
+  text-align: center;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+  color: rgba(243,236,215,0.4);
+  padding: 2rem 1rem 3rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; scroll-behavior: auto !important; }
+}

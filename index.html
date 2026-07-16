@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Recipe Box</title>
+<meta name="description" content="A home-cooked recipe archive, read straight out of markdown files.">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <span class="eyebrow">Filed under _posts</span>
+  <h1>Recipe Box</h1>
+  <p class="tagline">Every card here is one markdown file. Drop a new one in <code>_posts</code>, rebuild the index, and it shows up below.</p>
+</header>
+
+<div class="controls">
+  <input type="search" id="search-input" placeholder="Search recipes…" aria-label="Search recipes">
+  <div id="category-chips" role="group" aria-label="Filter by category"></div>
+</div>
+
+<main class="card-grid" id="card-grid" aria-live="polite">
+  <p class="empty-state">Loading recipes…</p>
+</main>
+
+<footer class="site-footer">Static · no build step at request time · index.json regenerated from _posts</footer>
+
+<script src="assets/js/app.js"></script>
+<script>initIndexPage();</script>
+</body>
+</html>
