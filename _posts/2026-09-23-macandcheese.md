@@ -2,7 +2,7 @@
 layout: post
 title:  "Mac and Cheese"
 date:   2026-09-23 09:41:59 +0000
-categories: Easy Dinner
+categories: dinner
 ---
 > ## Ingredients
 > - 1 tbsp olive oil
